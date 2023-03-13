@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Quality-Inspection/static/css/main.8147579f.css",
+    "main.js": "/Quality-Inspection/static/js/main.e4e412e2.js",
+    "index.html": "/Quality-Inspection/index.html",
+    "main.8147579f.css.map": "/Quality-Inspection/static/css/main.8147579f.css.map",
+    "main.e4e412e2.js.map": "/Quality-Inspection/static/js/main.e4e412e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8147579f.css",
+    "static/js/main.e4e412e2.js"
+  ]
+}
